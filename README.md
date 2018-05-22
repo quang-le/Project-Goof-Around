@@ -7,7 +7,7 @@
 4.How to join  
 [5.Version française](#5.Version française)  
 
-##1. Description  
+## 1. Description  
 
 I started this project with the idea the goof around with the technos we learn at BeCode. The starting idea is to create a mock-up of the first 8-bit Zelda game using css and let it evolve with the new stuff we learn along the way.
 
@@ -32,7 +32,7 @@ I first though of it as a personal pet project, but on second thought it seemed 
 * Create a branch
 * Start goofing around
 
-## 5.Version française
+## #5.Version française
   1. Description
   J'ai commencé ce projet dabns l'idée de déconner un peu avec les technos vue à BeCode. Le point de départ est d'essayer de créer un mock-up du premier jeu Zelda en utilisant css.
   Au départ, je voyais ça comme un projet perso, mais ça m'a paru plus intéressant et potentiellemnt plus marrant d'en faire un projet de groupe.
