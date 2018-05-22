@@ -59,7 +59,7 @@ body{
 }
 a{
   display:block;
-  /*outline: 1px solid red;*/
+  outline: 1px solid red;
   text-decoration: none;
   color:white;
   font-family: sans-serif;
@@ -68,33 +68,79 @@ a{
   position:absolute;
   cursor:url(Link_back_hover.png), auto;
 }
-.woodenSword{
-  top: 76px;
-  left: 370px;
-  width:63px;
-  height:63px;
-}
-.goUp{
-  top: 10px;
+.goDown{
+  top: 600px;
   left: 560px;
   width:130px;
-  height: 25px;
+  height: 90px;
 }
 .goLeft{
-  top: 330px;
+  top: 260px;
   left:110px;
-  width:40px;
-  height:70px;
+  width:80px;
+  height:200px;
 
 }
 .goRight{
-  top: 330px;
-  left: 1000px;
-  width:100px;
-  height:70px;
+  top: 270px;
+  left: 1050px;
+  width:90px;
+  height:190px;
 }
 img{
   display:block;
   width: 82%;
   margin:auto;
+}
+.ennemy {
+    outline:1px solid orange;
+    display:block;
+    width: 100%;
+    height:1000px;
+    top:100px;
+    left:100px;
+    position: absolute;
+}
+input[type="checkbox"] {
+   display:none;
+}
+@keyframes movePattern1 {
+    0%{ top:250px;left: 250px;}
+    25%{ top:250px;left: 500px;}
+    50%{ top:500px;left: 500px;}
+    75%{ top:500px;left: 250px;}
+    100%{ top:700px;left: 250px;}
+}
+/*#oktorok1{
+    display: block;
+    width: 500px;
+    height: 500px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    animation-name: movePattern1;
+    animation-duration: 4s;
+    outline:1px solid purple;
+}*/
+.test{
+    z-index:1;
+    width:100px;
+    height:100px;
+    outline: 1px solid black;
+    position:relative;
+}
+#oktorok1+label{
+    background-image:url(oktorokRed.png);
+    background-repeat:no-repeat;
+    animation-name: movePattern1;
+    animation-duration:4s;
+    animation-iteration-count: infinite;
+}
+label{
+    display:block;
+    width:100px;
+    height:100px;
+}
+test:checked {
+    background-color:green;
 }
