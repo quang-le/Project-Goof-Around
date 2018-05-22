@@ -52,14 +52,14 @@ body{
   height:650px;
 }
 .container{
-/*  outline: 1px solid blue;*/
+  outline: 1px solid blue;
   padding-top: 10px;
   position:relative;
   cursor:url(Link_back.png), auto;
 }
 a{
   display:block;
-  /*outline: 1px solid red;*/
+  outline: 1px solid red;
   text-decoration: none;
   color:white;
   font-family: sans-serif;
