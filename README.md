@@ -6,8 +6,8 @@
 [2. Objectives](https://github.com/quang-le/Project-Goof-Around/tree/Claudiu#2-objectives)  
 [3. House rules](https://github.com/quang-le/Project-Goof-Around/tree/Claudiu#3-house-rules)  
 [4. How to join](https://github.com/quang-le/Project-Goof-Around/tree/Claudiu#4-how-to-join)  
-[5. Collabolators](https://github.com/quang-le/Project-Goof-Around/tree/Claudiu#5-collabolators)
-[5. Next planned features](https://github.com/quang-le/Project-Goof-Around/blob/Claudiu/nextFeatures.md#next-planned-features)  
+[5. Collabolators](https://github.com/quang-le/Project-Goof-Around/tree/Claudiu#5-collabolators)  
+[6. Next planned features](https://github.com/quang-le/Project-Goof-Around/blob/Claudiu/nextFeatures.md#next-planned-features)  
 [6. Version française](https://github.com/quang-le/Project-Goof-Around/blob/Claudiu/README_fr.md)  
 
 ## 1. Description  
