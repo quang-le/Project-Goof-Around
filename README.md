@@ -2,12 +2,13 @@
 *created by Son on 19/05/2018*
 
 ## Table of contents  
-[1.Description](https://github.com/quang-le/Project-Goof-Around/tree/Claudiu#1-description)  
-[2.Objectives](https://github.com/quang-le/Project-Goof-Around/tree/Claudiu#2-objectives)  
-[3.House rules](https://github.com/quang-le/Project-Goof-Around/tree/Claudiu#3-house-rules)  
-[4.How to join](https://github.com/quang-le/Project-Goof-Around/tree/Claudiu#4-how-to-join)  
-[5.Next planned features](https://github.com/quang-le/Project-Goof-Around/blob/Claudiu/nextFeatures.md#next-planned-features)  
-[6.Version française](https://github.com/quang-le/Project-Goof-Around/blob/Claudiu/README_fr.md)  
+[1. Description](https://github.com/quang-le/Project-Goof-Around/tree/Claudiu#1-description)  
+[2. Objectives](https://github.com/quang-le/Project-Goof-Around/tree/Claudiu#2-objectives)  
+[3. House rules](https://github.com/quang-le/Project-Goof-Around/tree/Claudiu#3-house-rules)  
+[4. How to join](https://github.com/quang-le/Project-Goof-Around/tree/Claudiu#4-how-to-join)  
+[5. Collabolators](https://github.com/quang-le/Project-Goof-Around/tree/Claudiu#5-collabolators)
+[5. Next planned features](https://github.com/quang-le/Project-Goof-Around/blob/Claudiu/nextFeatures.md#next-planned-features)  
+[6. Version française](https://github.com/quang-le/Project-Goof-Around/blob/Claudiu/README_fr.md)  
 
 ## 1. Description  
 I started this project with the idea the goof around with the technos we learn at BeCode. The starting idea is to create a mock-up of the first 8-bit Zelda game using css and let it evolve with the new stuff we learn along the way.  
@@ -31,3 +32,7 @@ I first though of it as a personal pet project, but on second thought it seemed 
 * `clone` this repo
 * Create a branch
 * Start goofing around
+
+## 5. Collabolators  
+* [Quang Le](https://github.com/quang-le)
+* [Claudiu Cornea](https://github.com/ClaudiuCornea)
