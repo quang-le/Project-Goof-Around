@@ -1,5 +1,6 @@
 # Project Goof around
 *created by Son on 19/05/2018*
+*last update: 28/05/2018*
 
 ## Table of contents  
 [1. Description](https://github.com/quang-le/Project-Goof-Around/tree/Claudiu#1-description)  
@@ -33,6 +34,9 @@ I first though of it as a personal pet project, but on second thought it seemed 
 * Create a branch
 * Start goofing around
 
-## 5. Collabolators  
-* [Quang Le](https://github.com/quang-le)
+## 5. Collaborators  
+* [Quang Son Le](https://github.com/quang-le)
 * [Claudiu Cornea](https://github.com/ClaudiuCornea)
+* [Sammuel Janssens](https://github.com/SammuelJ)
+* [Ludovic Hautecoeur](https://www.mindtools.com/pages/article/newLDR_86.htm)
+* [Dylan Valente](https://github.com/valentedylan92)

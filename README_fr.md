@@ -1,5 +1,6 @@
 # Project Goof around
-*created by Son on 19/05/2018*  
+*crée by Son on 19/05/2018*  
+*Dernière mise à jour: 28/05/2018*
 
 ## Table des matières  
 [1.Description](https://github.com/quang-le/Project-Goof-Around/blob/Claudiu/README_fr.md#1-description)  
@@ -30,3 +31,10 @@ Au départ, je voyais ça comme un projet perso, mais ça m'a paru plus intéres
 * Faites un `clone`du repo
 * Créez une branche
 * C'est parti!
+
+## 5. Collaborateurrs  
+* [Quang Son Le](https://github.com/quang-le)
+* [Claudiu Cornea](https://github.com/ClaudiuCornea)
+* [Sammuel Janssens](https://github.com/SammuelJ)
+* [Ludovic Hautecoeur](https://www.mindtools.com/pages/article/newLDR_86.htm)
+* [Dylan Valente](https://github.com/valentedylan92)
