@@ -1,3 +1,8 @@
+:root {
+	--bgcolor: #FFC07A;
+}
+
+/*-- Global Styling DO NOT TOUCH --*/
 * {
 	margin: 0;
 	padding: 0;
@@ -9,8 +14,9 @@ main {
 	display: inline-block;
 	margin: 0 auto;
 }
+/*-- Main Styling DO NOT TOUCH --*/
 .row {
-	background-color: blue;
+	background-color: var(--bgcolor);
 	display: flex;
 }
 .tile {
