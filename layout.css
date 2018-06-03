@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	display: flex;
+}
+main {
+	display: inline-block;
+	margin: 0 auto;
+}
+.row {
+	background-color: blue;
+	display: flex;
+}
+.tile {
+	width: 4.375vw;
+	height: 4.375vw;
+	outline: 1px solid white;
+}
