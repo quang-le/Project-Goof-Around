@@ -21,3 +21,12 @@ main {
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
+/*--Disable when screen too small--*/
+@media screen and (max-width: 700px) {
+    main {
+        display: none;
+    }
+    body::after {
+    	content: 'Votre écran/fenetre est trop petit pour afficher ce jeu !'
+    }
+}
