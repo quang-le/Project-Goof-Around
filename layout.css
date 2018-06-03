@@ -16,17 +16,25 @@ main {
 }
 /*-- Main Styling DO NOT TOUCH --*/
 .row {
-	background-color: var(--bgcolor);
 	display: flex;
 }
 .tile {
 	width: 4.375vw;
 	height: 4.375vw;
-	outline: 1px solid white;
-	background-image: url(Images/tiles/brownBush.png);
+	background-color: var(--bgcolor);
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
+/*--Custom map--*/
+.tile1, .tile16, .number1 .tile, .number11 .tile {
+	background-image: url(Images/tiles/brownBush.png);
+}
+.number11 .tile9 {
+	background-image: none;
+}
+
+
+
 /*--Disable when screen too small--*/
 @media screen and (max-width: 700px) {
     main {
